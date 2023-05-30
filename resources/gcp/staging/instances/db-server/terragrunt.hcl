@@ -11,4 +11,5 @@ inputs = {
   network      = "default"
   subnetwork   = "default"
   public_ip    = true
+  machine_type = "e2-medium"
 }
