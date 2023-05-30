@@ -13,3 +13,4 @@ inputs = {
   public_ip    = true
   machine_type = "e2-medium"
 }
+ 
