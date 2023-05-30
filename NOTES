@@ -1,1 +1,3 @@
 Token GitHUB: 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
+
+sudo ./atlantis server --atlantis-url="http://34.128.103.41" --gh-user="adhithia21" --gh-token="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" --gh-webhook-secret="Admin#123" --repo-allowlist="github.com/adhithia21/terraform-batch-7" --port=80 --repo-config="repos.yaml"
