@@ -8,6 +8,6 @@ include {
 
 inputs = {
     auto_create_subnetworks = false
-    subnet_region = ["asia-southeast2-a"]
+    subnet_region = ["asia-southeast2"]
     subnet_ip_cidr_range = ["192.168.0.0/24"]
 }
